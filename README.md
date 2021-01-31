@@ -1,4 +1,4 @@
-# Steven-WabotV2
+# Sps2007-BotV2
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -7,8 +7,8 @@ Simple WhatsApp Bot
 > pkg install ffmpeg
 > pkg install imagagick
 > pkg install nodejs
-> git clone https://github.com/Stevennnm/Steven-WabotV2
-> cd Steven-WabotV2
+> git clone https://github.com/Stevennnm/Sps2007-BotV2
+> cd Sps2007-BotV2
 > npm i
 ```
 ###### Run
